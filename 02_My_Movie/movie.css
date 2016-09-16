@@ -1,0 +1,105 @@
+.links {
+	display: inline-block;
+	margin: 10px;
+}
+
+div {
+	padding: 3px 10px;
+}
+
+.rights {
+	font-family: Arial;
+	text-align: center;
+	padding-top: 40px;
+	color: blue;
+}
+
+
+
+#title {
+color: navy;
+font-family: Arial;
+text-align: center;
+}
+
+
+
+
+#plot {
+color: navy;
+font-family: Arial;
+padding: 0px 20px;
+text-align: center;
+}
+
+
+
+
+h1 {
+	font-family: Arial;
+	text-align: center;
+	padding-top: 30px;
+	color: white;
+
+}
+
+#photo {
+	width: 440px;
+	height: 600px; 
+	display: inline;
+}
+
+.article {
+	width: 1000px;
+	height: 1000px;
+	margin: auto;
+	border: 2px solid back;
+	background-color: cornsilk;
+
+}
+
+.header {
+	width: 100%;
+	height: 100px;
+	background-color: royalblue;
+
+}
+
+.footer {
+	width: 100%;
+	height: 100px;
+	background-color: orange;
+}
+
+
+
+#sec1 {
+
+	width: 440px;
+	height: 600px;
+	background-color: green;
+	float: left;
+	margin: 30px;
+}
+
+
+#sec2 {
+
+	width: 440px;
+	height: 600px;
+	background-color: white;
+	float: right;
+	margin: 30px;
+
+}
+
+
+
+#sec3 {
+
+	width: 940px;
+	height: 300px;
+	background-color: wheat;
+	clear: both;
+	margin: 40px 30px;
+}

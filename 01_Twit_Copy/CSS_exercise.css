@@ -1,0 +1,124 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bkground {
+    background-color: #F5F5F5;
+    width: 519px;
+    height: 365px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+section {
+    background-color: white;
+    width: 430px;
+    height: 250px;
+    margin: auto;
+    margin-top: 1%;
+    border-radius: 5px;
+    position: relative;
+}
+
+
+.whale {
+    height: 65px;
+    width: 65px;
+    padding-left: 35px;
+    padding-top: 20px;
+}
+
+h4 {
+    color: #aaa;
+    display: inline;
+    margin-left: 5px;
+    margin-top: 43px;
+    position: absolute;
+}
+
+.blue {
+    color: #2889D8;
+}
+
+.life_vest {
+    height: 50px;
+    width: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 3px;
+}
+
+h3 {
+    color: black;
+    display: inline;
+    margin-left: 10px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+article {
+    margin-top: 5px;
+    margin-left: -2px;
+    width: 431px;
+    height: 200px;
+    border: 1px solid #F5F5F5;
+    position: absolute;
+}
+
+h2 {
+    padding-left: 10px;
+    padding-top: 10px;
+    font-size: 1.2rem;
+}
+
+button {
+    padding: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#number {
+    color: #F3AB4C;
+}
+
+#red {
+    color: #F64F5A;
+}
+
+.circle {
+    border: 1px solid grey;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-top: 140px;
+    background-color: grey;
+}
+.comment {
+    border: 1px solid #2889D8;
+    height: 30px;
+    width: 120px;
+    border-radius: 30px;
+    margin-left: 75px;
+    margin-top: -32px;
+
+}
+
+p {
+    color: #2889D8;
+    margin: auto;
+    padding: 5px 10px 5px 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
